@@ -1,0 +1,102 @@
+    
+    <!DOCTYPE html>
+    <html lang="en">
+      <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>HTML Intro</title>
+      </head>
+      <body>
+
+        <div id="exercise1">
+          <!-- Complete Exercise 1 HERE -->
+        <h1>Ben Bryant</h1>
+        <p>Bio about Myself</p>
+    
+        <div id="exercise2">
+          <!-- Complete Exercise 2 HERE -->
+        <ul>
+          <li><a href="#">Linkedin</a></li>
+          <li><a href="#">TrueCoders</a></li>
+          <li><a href="#">Dev Community</a></li>
+            
+        </ul>
+    
+        <div id="exercise3">
+          <!-- Complete Exercise 3 HERE -->
+        </div>
+    
+        <div id="exercise4">
+          <img src="./images/example.png" alt="Avatar PlaceHolder"/>
+          <p>
+            I looked down at the board."The<strong>point</strong>
+            isnt to win?"i asked "The"<strong>man lifted his hands to shrug
+            <span>Brandon</span> was  his name.<span>Brandon is a </span>
+            <em> beautiful man<em>
+         
+          </p>
+        </div>
+    
+        <div id="exercise5">
+          <!-- Complete Exercise 5 HERE -->
+          <div>
+            <div>
+              <div>
+                <span>
+                  <a href="/">Home</a>
+                </span>
+                <span>
+                  <a href="/about">About</a>
+                </span>
+                <span>
+                  <a href="/projects">Projects</a>
+                </span>
+              </div>
+            </div>
+          </div>
+    
+          <div>
+            <div>
+              <h1>Main Heading</h1>
+              <p>Author.. Bio...</p>
+            </div>
+            <div>
+              <div>
+                <h2>Sub Heading</h2>
+                <div>
+                  <p>Lorem ipsum...</p>
+                </div>
+              </div>
+              <div>
+                <h2>Sub Heading</h2>
+                <p>Lorem ipsum...</p>
+                <div>
+                  <h3>Another Sub Heading</h3>
+                  <p>Lorem ipsum...</p>
+                </div>
+              </div>
+            </div>
+        </div>
+    
+          <div>
+            <div>
+              <div>
+                <span>
+                  <a href="/privacy">Privacy Policy</a>
+                </span>
+                <span>
+                  <a href="/terms">Terms and Conditions</a>
+                </span>
+              </div>
+            </div>
+    
+            <div>
+              <p>Powered by 🕯️</p>
+              <p>&copy; TrueCoders 2021-24</p>
+            </div>
+          </div>
+        </div>
+        
+      </body>
+    </h
